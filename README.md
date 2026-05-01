@@ -116,10 +116,10 @@ From analysis, the following actions can be considered:
 ## ⚙️ Setup Guide
 
 1. Install dependencies:
-      pip install -r requirements.txt   
+      sudo apt install python3-scapy  
 
 1. Run the sniffer:
-      sudo python3 sniffer.py   
+      sudo python3 basic-network-sniffer.py   
 
 1. Generate traffic:
       ping google.com   
