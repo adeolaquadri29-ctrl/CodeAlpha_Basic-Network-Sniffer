@@ -68,7 +68,7 @@ To generate traffic for analysis:
 
 ---
 
-## 🔍 Detection & Analysis
+## 🔍 Threat Detection & Analysis
 
 During packet capture, the following indicators can be observed:
 
@@ -82,6 +82,22 @@ Example Output:
 [+] PAYLOAD: b'E\x00\x00T\x89\x990\x000\x01/I\xc0\xa8\x00u\xc0\xa8\x0
 0\x01\x08\x00\xa8\xa0n\xa9\×00\x12tQ\xf01\x00\x00\x00\x00\xb3\x15\n\x00\x00\x
 00\x00\x00\x10\x11\x12\x13\x14\x15°
+
+This demonstrate how basic packet sniffing can support early-stage threat detection in a SOC environment.
+
+---
+
+## 🧠 MITRE ATT&CK Mapping
+
+This project relates to the following techniques:
+
+- T1046 – Network Service Discovery  
+
+- T1498 – Network Denial of Service (DoS)  
+
+- T1071 – Application Layer Protocol  
+
+These mappings show how network traffic analysis supports threat detection.
 
 ---
 
@@ -108,10 +124,10 @@ From analysis, the following actions can be considered:
 ## 🧠 Skills Gained
 
 - Network Traffic Analysis
-- Packet Inspection
+- Packet Inspection & Protocol Analysis 
 - Python for Cybersecurity
-- Protocol Analysis
-- Security Monitoring Fundamentals
+- Basic Threat Detection Techniques 
+- Security Monitoring Concepts (SOC)
 
 ---
 
