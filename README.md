@@ -48,7 +48,7 @@ The project simulates basic SOC (Security Operations Center) monitoring by analy
 To generate traffic for analysis:
 
 - ICMP Traffic:
-    ping google.com  
+    ping default gateway (192.168.0.1)
 
 - Web Traffic:
   Browse any website
@@ -122,18 +122,12 @@ From analysis, the following actions can be considered:
       sudo python3 basic-network-sniffer.py   
 
 1. Generate traffic:
-      ping google.com   
+      ping default gateway (192.168.0.1) 
 
 ---
 
 ## 📸 Screenshots
-
-### Packet Capture
-Packet Capture
-
-### Live Traffic
-Live Traffic
-
+they are available in the screenshots folder
 ---
 
 ## ⚠️ Ethical Use Disclaimer
