@@ -12,13 +12,19 @@ Status
 
 ## 📌 Project Overview
 
-This project was developed as part of my cybersecurity internship at CodeAlpha, where I gained hands-on experience in network security, traffic analysis, and practical defensive techniques.
-
-The internship focused on building real-world cybersecurity projects to strengthen technical and analytical skills required in Security Operations Center (SOC) roles.
-
 This project is a lightweight network packet sniffer built using Python and Scapy. It captures live network traffic and extracts critical packet information such as source IP, destination IP, protocol type, and payload data.
 
 The project simulates basic SOC (Security Operations Center) monitoring by analyzing network activity in real-time.
+
+---
+
+## 🎓 Internship Context
+
+This project is my first hands-on task as part of my ongoing cybersecurity internship at CodeAlpha.
+
+The internship focuses on building practical cybersecurity projects to develop real-world skills in network analysis, threat detection, and security monitoring.
+
+Through this project, I am gaining foundational experience in packet analysis and understanding how network traffic behaves in real-time environments.
 
 ---
 
